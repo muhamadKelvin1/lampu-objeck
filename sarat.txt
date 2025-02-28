@@ -1,0 +1,1 @@
+Jika Anda menggunakan ESP8266 atau ESP32, Anda bisa mengontrolnya menggunakan HTTP API dengan Python.
